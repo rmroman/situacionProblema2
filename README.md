@@ -1,4 +1,4 @@
-# Programación Orientada a Objetos 
+# Programación orientada a objetos 
 ## Proyecto Integrador
 
 ### Modelado de servicio de streaming
